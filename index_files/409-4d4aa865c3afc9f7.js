@@ -1481,7 +1481,7 @@
                         className: "flex flex-col",
                         children: [
                             (0, c.jsx)("div", { className: "flex justify-center lg:justify-start py-3 lg:py-0", children: (0, c.jsx)(u.default, { src: ue, alt: "logo" }) }),
-                            (0, c.jsx)("p", { className: "font-medium text-timeDone lg:mt-auto text-center lg:text-left", children: "Copyright \xa9 2022 BK Games." }),
+                            (0, c.jsx)("p", { className: "font-medium text-timeDone lg:mt-auto text-center lg:text-left", children: "Copyright \xa9 2022 Small Games." }),
                             (0, c.jsx)("p", { className: "font-medium text-timeDone text-center lg:text-left", children: "All rights reserved." }),
                         ],
                     }),
@@ -1586,10 +1586,10 @@
                     children: [
                         (0, c.jsxs)(_e.default, {
                             children: [
-                                (0, c.jsx)("title", { children: "DEV BLOGS | BK Games" }),
+                                (0, c.jsx)("title", { children: "DEV BLOGS | Small Games" }),
                                 (0, c.jsx)("meta", { name: "viewport", content: "width=device-width, initial-scale=1" }),
-                                (0, c.jsx)("meta", { property: "og:title", content: "DEV BLOGS | BK Games" }),
-                                (0, c.jsx)("meta", { property: "og:description", content: "Development blogs and updates for BK Games and our projects!" }),
+                                (0, c.jsx)("meta", { property: "og:title", content: "DEV BLOGS | Small Games" }),
+                                (0, c.jsx)("meta", { property: "og:description", content: "Development blogs and updates for Small Games and our projects!" }),
                                 (0, c.jsx)("meta", { property: "og:image", content: "https://bigblog-storage.s3.us-east-1.amazonaws.com/Logo.png" }),
                             ],
                         }),
@@ -1603,7 +1603,7 @@
                 return (0, c.jsxs)("div", {
                     className: "bg-pageBg/90 overflow-x-hidden",
                     children: [
-                        (0, c.jsx)(_e.default, { children: (0, c.jsx)("title", { children: "DEV BLOGS | BK Games" }) }),
+                        (0, c.jsx)(_e.default, { children: (0, c.jsx)("title", { children: "DEV BLOGS | Small Games" }) }),
                         (0, c.jsx)(Re, {
                             withoutBlogNavigation: !0,
                             centeredFooterXL: !0,
