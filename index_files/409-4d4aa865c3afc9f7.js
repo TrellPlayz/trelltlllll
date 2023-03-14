@@ -936,9 +936,9 @@
                             {
                                 attributes: {
                                     items: [
-                                        { title: "5,000+", description: "peak concurrent players" },
-                                        { title: "2 million", description: "unique game sessions" },
-                                        { title: "3,000+", description: "daily active users" },
+                                        { title: "25,000+", description: "peak concurrent players" },
+                                        { title: "50 million", description: "unique game sessions" },
+                                        { title: "10,000+", description: "daily active users" },
                                     ],
                                 },
                             },
