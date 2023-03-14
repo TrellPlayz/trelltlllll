@@ -161,10 +161,10 @@
                         children: [
                             (0, n.jsxs)(f.default, {
                                 children: [
-                                    (0, n.jsx)("title", { children: "DEV BLOGS | BK Games" }),
+                                    (0, n.jsx)("title", { children: "DEV BLOGS | Small Games" }),
                                     (0, n.jsx)("meta", { name: "viewport", content: "width=device-width, initial-scale=1" }),
-                                    (0, n.jsx)("meta", { property: "og:title", content: "DEV BLOGS | BIG Games" }),
-                                    (0, n.jsx)("meta", { property: "og:description", content: "Development blogs and updates for BIG Games and our projects!" }),
+                                    (0, n.jsx)("meta", { property: "og:title", content: "DEV BLOGS | Small Games" }),
+                                    (0, n.jsx)("meta", { property: "og:description", content: "Development blogs and updates for Small Games and our projects!" }),
                                     (0, n.jsx)("meta", { property: "og:image", content: "https://bigblog-storage.s3.us-east-1.amazonaws.com/Logo.png" }),
                                 ],
                             }),
