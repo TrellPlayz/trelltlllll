@@ -518,7 +518,7 @@
                                 }),
                             }),
                             (0, c.jsx)(w.default, {
-                                href: "https://twitter.com/BKOfficialTeam",
+                                href: "https://twitter.com/SmallGamesOT",
                                 passHref: !0,
                                 children: (0, c.jsx)("a", {
                                     target: "_blank",
@@ -858,7 +858,7 @@
                                     start: "translateY(20px)",
                                     end: "translateY(0px)",
                                     className: "flex lg:flex-col lg:items-center gap-3 sm:gap-16 w-[200px] lg:w-[270px] m-auto lg:sm:m-[initial]",
-                                    children: (0, c.jsx)(k, { className: "roundButtonClass bg-pageOrange shadow-glowRed", src: Q, href: "https://shop.bkgames.xyz/", linkTxt: "Coming Soon" }),
+                                    children: (0, c.jsx)(k, { className: "roundButtonClass bg-pageOrange shadow-glowRed", src: Q, href: "https://smallgames.store/", linkTxt: "Purchase" }),
                                 }),
                             ],
                         }),
@@ -1102,7 +1102,7 @@
                                                 (0, c.jsx)("p", { "data-index": "1", "data-id": "ourgames", className: "1" !== p ? "navButton" : "navButtonSelected", onClick: s, children: "OUR GAMES" }),
                                                 (0, c.jsx)("div", { className: b, children: (0, c.jsx)(u.default, { src: ue, alt: "BIG_GAMES_LOGO" }) }),
                                                 (0, c.jsx)(w.default, {
-                                                    href: "https://shop.bkgames.xyz/",
+                                                    href: "https://smallgames.store/",
                                                     children: (0, c.jsx)("a", {
                                                         rel: "noopener noreferrer",
                                                         children: (0, c.jsx)("p", { "data-index": "2", "data-id": "sickmerch", className: "2" !== p ? "navButton" : "navButtonSelected", onClick: s, children: "SICK MERCH" }),
@@ -1154,7 +1154,7 @@
                             "w-full fixed top-0 -translate-x-0 z-20 defaultTransition": t.hamburgerOpen,
                         });
                     return (0,
-                    c.jsxs)("div", { className: n, children: [(0, c.jsx)(de, { imageH: 14, imageW: 18, sidebar: !0, leftIcon: ge }), (0, c.jsxs)("div", { className: "pageBg/90 px-4 flex flex-col gap-5 mt-6", children: [(0, c.jsx)("div", { "data-id": "home", onClick: e, className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: "Home" }), (0, c.jsx)("div", { "data-id": "ourgames", onClick: e, className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: "Our Games" }), (0, c.jsx)(w.default, { href: "https://shop.bkgames.xyz/", passHref: !0, children: (0, c.jsx)("div", { className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: (0, c.jsx)("a", { target: "_blank", rel: "noopener noreferrer", children: "Sick Merch" }) }) }), (0, c.jsx)(w.default, { href: "/post", passHref: !0, children: (0, c.jsx)("div", { onClick: e, className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: (0, c.jsx)("a", { children: "Dev Blogs" }) }) })] }), (0, c.jsx)(z, { className: "w-full h-full px-4 gap-4 flex justify-center mt-auto mb-24" })] });
+                    c.jsxs)("div", { className: n, children: [(0, c.jsx)(de, { imageH: 14, imageW: 18, sidebar: !0, leftIcon: ge }), (0, c.jsxs)("div", { className: "pageBg/90 px-4 flex flex-col gap-5 mt-6", children: [(0, c.jsx)("div", { "data-id": "home", onClick: e, className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: "Home" }), (0, c.jsx)("div", { "data-id": "ourgames", onClick: e, className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: "Our Games" }), (0, c.jsx)(w.default, { href: "https://smallgames.store/", passHref: !0, children: (0, c.jsx)("div", { className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: (0, c.jsx)("a", { target: "_blank", rel: "noopener noreferrer", children: "Sick Merch" }) }) }), (0, c.jsx)(w.default, { href: "/post", passHref: !0, children: (0, c.jsx)("div", { onClick: e, className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: (0, c.jsx)("a", { children: "Dev Blogs" }) }) })] }), (0, c.jsx)(z, { className: "w-full h-full px-4 gap-4 flex justify-center mt-auto mb-24" })] });
                 }),
                 pe = { src: "/_next/static/media/hamburger.48056bf1.svg", height: 12, width: 18 };
             function xe(e) {
@@ -1298,14 +1298,14 @@
                 );
             }
             var Se = [
-                    { txt: "Merchandise", link: "https://shop.bkgames.xyz/" },
+                    { txt: "Merchandise", link: "https://smallgames.store/" },
                     { txt: "Developer Blogs", link: "/post" },
                 ],
                 Ne = [
-                    { txt: "Twitter", link: "https://twitter.com/BKOfficialTeam" },
+                    { txt: "Twitter", link: "https://twitter.com/SmallGamesOT" },
                     { txt: "Discord", link: "https://discord.com/invite/smallgames" },
                     { txt: "YouTube", link: "https://www.youtube.com/@SmallGamesOT/featured" },
-                    { txt: "Roblox", link: "https://www.roblox.com/games/11213263186/BK-Games-Hub" },
+                    { txt: "Roblox", link: "https://www.roblox.com/games/11669039342/Murder-Madness-Testing" },
                 ];
             function ke(e) {
                 var t = Oe({}, e),
