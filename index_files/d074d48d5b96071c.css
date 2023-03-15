@@ -424,7 +424,7 @@ figure {
 }
 .navButton:hover {
     --tw-text-opacity: 1;
-    color: rgb(254 157 67 / var(--tw-text-opacity));
+    color: rgb(99 2 245 / var(--tw-text-opacity));
 }
 @media (min-width: 768px) {
     .navButton {
@@ -439,7 +439,7 @@ figure {
     font-weight: 700;
     text-transform: uppercase;
     --tw-text-opacity: 1;
-    color: rgb(254 157 67 / var(--tw-text-opacity));
+    color: rgb(99 2 245 / var(--tw-text-opacity));
 }
 @media (min-width: 768px) {
     .navButtonSelected {
@@ -1062,7 +1062,7 @@ figure {
 }
 .bg-pageOrange {
     --tw-bg-opacity: 1;
-    background-color: rgb(254 157 67 / var(--tw-bg-opacity));
+    background-color: rgb(99 2 245 / var(--tw-bg-opacity));
 }
 .bg-white\/40 {
     background-color: hsla(0, 0%, 100%, 0.4);
@@ -1292,7 +1292,7 @@ figure {
 }
 .text-pageOrange {
     --tw-text-opacity: 1;
-    color: rgb(254 157 67 / var(--tw-text-opacity));
+    color: rgb(99 2 245 / var(--tw-text-opacity));
 }
 .text-white {
     --tw-text-opacity: 1;
@@ -1428,10 +1428,10 @@ figure {
     scrollbar-width: 0;
 }
 .scrollbar-thumb-pageOrange {
-    --scrollbar-thumb: #fe9d43;
+    --scrollbar-thumb: #6302f5;
 }
 .scrollbar-thumb-pageOrange::-webkit-scrollbar-thumb {
-    background-color: #fe9d43;
+    background-color: #6302f5;
 }
 .placeholder\:text-xl::-moz-placeholder {
     font-size: 1.25rem;
@@ -1481,7 +1481,7 @@ figure {
 .after\:bg-pageOrange:after {
     content: var(--tw-content);
     --tw-bg-opacity: 1;
-    background-color: rgb(254 157 67 / var(--tw-bg-opacity));
+    background-color: rgb(99 2 245 / var(--tw-bg-opacity));
 }
 .after\:content-\[\'\'\]:after {
     --tw-content: "";
@@ -1505,7 +1505,7 @@ figure {
 }
 .hover\:text-pageOrange:hover {
     --tw-text-opacity: 1;
-    color: rgb(254 157 67 / var(--tw-text-opacity));
+    color: rgb(99 2 245 / var(--tw-text-opacity));
 }
 .hover\:shadow-md:hover {
     --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
