@@ -1524,7 +1524,7 @@
                     c.jsx)("div", { className: O, children: (0, c.jsxs)("div", { className: I, children: [(0, c.jsxs)("div", { className: "sm:max-w-lg xl:max-w-xl m-auto", children: [(0, c.jsx)("p", { className: S, children: t }), (0, c.jsx)($, { frontpage: g, blogMain: m, blogItem: p, blogImgSrc: x, ratioImg: r })] }), (0, c.jsxs)("div", { className: "sm:max-w-lg m-auto", ref: d ? j : null, children: [(0, c.jsx)("p", { className: N, children: t }), (0, c.jsx)(s, { className: "dateItem", children: y }), (0, c.jsx)(A, { state: !d || w, directionStart: "translateX(30px)", directionEnd: "translateX(0px)", className: "leading-12 relative", title: "Pet Simulator Z - Halloween Update", description: "Happy halloween! The Halloween Update is here along with a ton of other changes and additions!", titleStyle: B, descriptionStyle: E }), (0, c.jsxs)("div", { className: P, children: [(0, c.jsx)("div", { className: T }), (0, c.jsx)(k, { className: "roundButtonClass bg-pageBlue shadow-glowBlue flex flex-row-reverse", src: W, href: f, linkTxt: i, withLink: b })] })] })] }) });
                 }),
                 Ge = {
-                    src: "petsimcat.png",
+                    src: "/_next/static/media/petsimcat.png",
                     height: 2048,
                     width: 2048,
                     blurDataURL:
