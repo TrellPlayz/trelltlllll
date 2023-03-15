@@ -750,10 +750,10 @@
                 return (0, c.jsxs)("div", {
                     className: o,
                     children: [
-                        (0, c.jsx)("div", { className: "blur-md relative ", children: (0, c.jsx)(u.default, { src: "%2Fgameicon_stpatricks_hi-res.svg", alt: "", width: 454, height: 454 * i }) }),
+                        (0, c.jsx)("div", { className: "blur-md relative ", children: (0, c.jsx)(u.default, { src: "/_next/gameicon_stpatricks_hi-res.svg", alt: "", width: 454, height: 454 * i }) }),
                         (0, c.jsx)("div", {
                             className: "absolute top-0 w-full h-full flex justify-center items-center",
-                            children: (0, c.jsx)("div", { className: s, children: (0, c.jsx)(u.default, { src: "%2Fgameicon_stpatricks_hi-res.svg", alt: "", width: 227, height: 227 }) }),
+                            children: (0, c.jsx)("div", { className: s, children: (0, c.jsx)(u.default, { src: "/_next/gameicon_stpatricks_hi-res.svg", alt: "", width: 227, height: 227 }) }),
                         }),
                     ],
                 });
