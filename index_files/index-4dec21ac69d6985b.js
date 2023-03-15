@@ -70,7 +70,7 @@
                         id: "home",
                         className: "bg-pageBg/90 overflow-x-hidden",
                         children: [
-                            (0, r.jsxs)(i.default, { children: [(0, r.jsx)("title", { children: "BK Games" }), (0, r.jsx)("meta", { name: "viewport", content: "width=device-width, initial-scale=1" })] }),
+                            (0, r.jsxs)(i.default, { children: [(0, r.jsx)("title", { children: "Small Games" }), (0, r.jsx)("meta", { name: "viewport", content: "width=device-width, initial-scale=1" })] }),
                             (0, r.jsx)(n.uh, {}),
                             (0, r.jsxs)("main", {
                                 className: j,
