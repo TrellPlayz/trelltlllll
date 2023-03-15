@@ -1062,7 +1062,7 @@ figure {
 }
 .bg-pageOrange {
     --tw-bg-opacity: 1;
-    background-color: rgb(99 2 245 / var(--tw-bg-opacity));
+    background-color: rgb(254 157 67 / var(--tw-bg-opacity));
 }
 .bg-white\/40 {
     background-color: hsla(0, 0%, 100%, 0.4);
