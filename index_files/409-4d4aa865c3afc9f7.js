@@ -1305,7 +1305,7 @@
                     { txt: "Twitter", link: "https://twitter.com/SmallGamesOT" },
                     { txt: "Discord", link: "https://discord.com/invite/smallgames" },
                     { txt: "YouTube", link: "https://www.youtube.com/@SmallGamesOT/featured" },
-                    { txt: "Roblox", link: "https://www.roblox.com/games/11669039342/Murder-Madness-Testing" },
+                    { txt: "Roblox", link: "https://www.roblox.com/games/6731415910/Murder-Madness-Testing" },
                 ];
             function ke(e) {
                 var t = Oe({}, e),
@@ -1481,7 +1481,7 @@
                         className: "flex flex-col",
                         children: [
                             (0, c.jsx)("div", { className: "flex justify-center lg:justify-start py-3 lg:py-0", children: (0, c.jsx)(u.default, { src: ue, alt: "logo" }) }),
-                            (0, c.jsx)("p", { className: "font-medium text-timeDone lg:mt-auto text-center lg:text-left", children: "Copyright \xa9 2022 Small Games." }),
+                            (0, c.jsx)("p", { className: "font-medium text-timeDone lg:mt-auto text-center lg:text-left", children: "Copyright \xa9 2023 Small Games." }),
                             (0, c.jsx)("p", { className: "font-medium text-timeDone text-center lg:text-left", children: "All rights reserved." }),
                         ],
                     }),
